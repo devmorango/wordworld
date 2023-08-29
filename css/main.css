@@ -27,8 +27,20 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-
+  font-weight: bold;
+  font-size: 30px;
   border: 2px solid #d3d6da;
   width: 60px;
   height: 60px;
+}
+
+.timer {
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.time-separator {
+  margin: 0 5px;
 }

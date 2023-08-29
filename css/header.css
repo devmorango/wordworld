@@ -4,6 +4,7 @@
   align-items: center;
   padding: 0 10px 0 10px;
   height: 10px;
+  cursor: pointer;
 }
 
 .menu-bar {
@@ -12,6 +13,7 @@
   align-items: center;
   padding: 0 10px 0 10px;
   height: 10px;
+  cursor: pointer;
 }
 .menu-bar div {
   margin-right: 10px;
@@ -30,4 +32,5 @@ img {
   align-items: center;
   font-weight: bold;
   font-size: 10px;
+  cursor: pointer;
 }
